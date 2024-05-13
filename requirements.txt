@@ -1,5 +1,12 @@
+certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
 cryptography==42.0.7
+gTTS==2.5.1
+idna==3.7
 pdfminer.six==20231228
 pycparser==2.22
+requests==2.31.0
+urllib3==2.2.1
